@@ -1,21 +1,19 @@
 # MotoRataRoyale
 
-MioApp es un prototipo de aplicativo movil para los ciudadanos de Cali, la cual les birnda a los usuarios una forma facil y rapida de calcular el precio de su pasaje de acuerdo a un listado de descuentos dependiendo ciertas caracteristicas de la persona, como lo son: la edad, si la persona es estudiante o si es miembro de una familia numerosa. Con solo estos datos la aplicación le devolvera a la persona el valor exacto de su pasaje.
+MotoRata Royale es un videojuego multijugador local, que enfrenta a 2 jugadores en un mapa simulando una ciudad destruida, en la cual cada uno armado en su vehiculo deberá derrotar a su contrincante disparandole misiles, cada uno puede moverse por el mapa sin restricciones y debera esquivar los proyectiles enemigos para que al final gane el ultimo jugador que quede con vida en el mapa. Cada partida cuenta con 3 rondas, el que gane 2 de las 3 rondas ganará la partida.
 
 ## Objetivo
-Desarrollar una aplicación movil que le permita a los usuarios calcular el valor del pasaje del MIO de acuerdo a la edad, si la persona es estudiante o si es miembro de una familia numerosa.
+Desarrollar un videojuego de multijugador local que tiene como objetivo derrotar al contrincante utilizando proyectiles hasta que uno de los 2 quede con vida.
 
 ## Acerca del proyecto
 Desarrollado en: 
-  - Java
+  - Unity 
+  - JavaScript
 
-Dependencias:
+## Descargar y probar
 
-    import androidx.appcompat.app.AppCompatActivity;
-    import android.app.AlertDialog;
-    import android.os.Bundle;
-    import android.view.View;
-    import android.widget.RadioButton;
+para probar el juego descargar el archivo: 
+
 
 
 import com.google.android.material.textfield.TextInputEditText;
