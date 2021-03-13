@@ -12,7 +12,7 @@ Desarrollado en:
 
 ## Descargar y probar
 
-para probar el juego descargar el archivo: 
+para probar el juego descargar el archivo: Prueba.exe
 
 
 
