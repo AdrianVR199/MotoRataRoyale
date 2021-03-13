@@ -8,7 +8,7 @@ Desarrollar un videojuego de multijugador local que tiene como objetivo derrotar
 ## Acerca del proyecto
 Desarrollado en: 
   - Unity 
-  - JavaScript
+  - C#
 
 ## Descargar y probar
 
