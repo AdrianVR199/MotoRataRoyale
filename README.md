@@ -21,5 +21,5 @@ para probar el juego descargar el archivo: Prueba.exe
 ![7](https://user-images.githubusercontent.com/42383412/111051938-da3c3500-8424-11eb-9dd3-3cda553319b3.JPG)
 ![r6](https://user-images.githubusercontent.com/42383412/111051931-cf81a000-8424-11eb-8cb6-a73f2a018513.gif)
 ![r7](https://user-images.githubusercontent.com/42383412/111051971-fcce4e00-8424-11eb-8713-9ff475bb4fd9.gif)
-
+![r8](https://user-images.githubusercontent.com/42383412/111052012-559de680-8425-11eb-8255-b52005f916ae.gif)
 
